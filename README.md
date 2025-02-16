@@ -102,4 +102,6 @@ The server will start on `http://localhost:3000/`
  ┣ 📜 package.json
  ┣ 📜 README.md
 ```
+---
 
+Great challenge by the way! 🚀
